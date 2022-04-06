@@ -7,3 +7,4 @@ app.get('/', function (req, res) {
   res.send(`${num1} ${num2} ${operations}`)
 })
 app.listen(3000)
+//po chorobie, sprawdzic i nadrobic zaleglosci
