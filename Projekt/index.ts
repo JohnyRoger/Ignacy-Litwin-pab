@@ -8,3 +8,4 @@ app.get('/', function (req, res) {
 })
 app.listen(3000)
 //po chorobie, sprawdzic i nadrobic zaleglosci
+app.use()
